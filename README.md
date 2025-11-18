@@ -54,19 +54,3 @@ gcc -Wall -Wextra -std=c11 *.c -o demo && ./demo
 
 Open `data/sample-telemetry.jsonl` to inspect representative console output. This is
 useful when validating your hardware wiring or cloud logging pipeline.
-
-## Additional Notes (Legacy Content)
-
-# TOEIC Grammar Test: Test Your Skills
-
-- Course: TOEIC Grammar Test: Test Your Skills
-- Author: Ashraf S A AlMadhoun
-- Link: https://www.udemy.com/course/toeic-grammer-test-test-your-skills/?couponCode=JULYMAXDICOUNT
-
-## Overview
-
-Practice grammar with quick prompts suitable for embedded quiz systems.
-
-## Purchase With Discount
-
-Enroll using the link above to get a discounted price and sharpen your TOEIC skills.
